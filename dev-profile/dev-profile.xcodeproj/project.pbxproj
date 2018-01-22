@@ -12,6 +12,7 @@
 		52C3126C2016976000734F97 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52C3126A2016976000734F97 /* Main.storyboard */; };
 		52C3126E2016976000734F97 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52C3126D2016976000734F97 /* Assets.xcassets */; };
 		52C312712016976000734F97 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52C3126F2016976000734F97 /* LaunchScreen.storyboard */; };
+		52C31279201698E200734F97 /* roundedBorder.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52C31278201698E200734F97 /* roundedBorder.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		52C3126D2016976000734F97 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		52C312702016976000734F97 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		52C312722016976000734F97 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		52C31278201698E200734F97 /* roundedBorder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = roundedBorder.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				52C312662016976000734F97 /* AppDelegate.swift */,
 				52C312682016976000734F97 /* ViewController.swift */,
+				52C31278201698E200734F97 /* roundedBorder.swift */,
 				52C3126A2016976000734F97 /* Main.storyboard */,
 				52C3126D2016976000734F97 /* Assets.xcassets */,
 				52C3126F2016976000734F97 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				52C312692016976000734F97 /* ViewController.swift in Sources */,
 				52C312672016976000734F97 /* AppDelegate.swift in Sources */,
+				52C31279201698E200734F97 /* roundedBorder.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
